@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\nikopesh\\Desktop\\Projects\\uft-jira-addon\\uft-plugin\\uft-agent-ui-form\\GUITest8\\Res1',namePairs:[]}]};
