@@ -9,3 +9,4 @@ Browser("Browser").Page("Advantage Shopping").WebButton("registration_btnundefin
 Browser("Browser").Page("Advantage Shopping").Link("ShoppingCart").Click @@ script infofile_;_ZIP::ssf8.xml_;_
 Browser("Browser").Page("Advantage Shopping").WebElement("PRICE: $269.99 EDIT |").Click @@ script infofile_;_ZIP::ssf9.xml_;_
 Browser("Browser").Page("Advantage Shopping").WebElement("REMOVE").Click @@ script infofile_;_ZIP::ssf10.xml_;_
+Browser("Browser").Close
